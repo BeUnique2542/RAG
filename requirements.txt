@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+sentence-transformers
+transformers
+torch
+numpy
+tqdm
+pypdf
+python-docx
+together
+requests
