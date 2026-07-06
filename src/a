@@ -1,0 +1,21 @@
+src/
+├─ __pycache__/
+│  ├─ __init__.cpython-313.pyc
+│  ├─ app.cpython-313.pyc
+│  ├─ config.cpython-313.pyc
+│  ├─ ingest.cpython-313.pyc
+│  └─ prompts.cpython-313.pyc
+├─ data/
+│  └─ RAG data.pdf
+├─ src/
+│  └─ vector_store.npz
+├─ static/
+│  ├─ fn3f34
+│  └─ index.html
+├─ __init__.py
+├─ app.py
+├─ config.py
+├─ ingest.py
+├─ prompts.py
+├─ utils.py
+└─ vector_store.npz

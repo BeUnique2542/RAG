@@ -1,0 +1,158 @@
+EMPLOYEE HANDBOOK - ExampleCorp 2026
+
+1. INTRODUCTION AND PURPOSE
+This handbook explains how ExampleCorp works, what the company expects from employees, and what employees can expect in return. It is a practical guide, not a contract, and may be updated as the company evolves.
+
+2. EMPLOYMENT BASICS
+2.1 Employment Types
+- Full-time employees typically work 40 hours per week
+- Part-time employees work fewer hours with pro-rated benefits
+- Fixed-term employees are hired for defined periods
+- Contractors must comply with security and conduct requirements
+
+2.2 Probation Policy
+- New employees serve a probation period of 3-6 months
+- Manager assesses performance, role fit, behavior, and company values alignment
+- Probation outcomes: confirmation, extension, or termination with notice
+
+2.3 Working Hours and Flexibility
+- Standard working hours: 9:00 AM to 6:00 PM with 1-hour break
+- Flexible work arrangements available where operationally feasible
+- Remote or hybrid work available by role and location with manager approval
+
+3. LEAVE AND TIME OFF
+3.1 Types of Leave
+- Annual leave: 18-24 days per year, prorated for part-year service
+- Sick leave: Available per local law; medical certificates may be required
+- Parental leave: Maternity, paternity, adoption, parental leave per local legislation
+- Bereavement leave: Paid or unpaid following death of immediate family member
+- Unpaid leave: Additional unpaid leave granted at management and HR discretion
+
+3.2 Accrual and Carryover
+- Annual leave accrues monthly over calendar or fiscal year
+- Carryover of unused leave limited and may be capped at 5 days
+- Accrued but unused leave at termination handled per local law
+
+3.3 Leave Request Procedure
+1. Check balance in HR system
+2. Submit request through leave management portal with dates and type
+3. Manager reviews considering workload and team coverage
+4. Manager approves or denies; system notifies employee
+5. HR and payroll use records to manage balances
+
+4. COMPENSATION AND BENEFITS
+4.1 Pay Schedule and Deductions
+- Employees paid monthly or bi-weekly via bank transfer
+- Statutory deductions (taxes, social security) and authorized voluntary deductions appear on payslip
+- Company aims to resolve payroll errors promptly
+
+4.2 Bonus and Incentive Eligibility
+- Some roles eligible for bonuses based on individual, team, and company performance
+- Eligibility, targets, and payout rules described in role-specific documents
+- Bonus decisions at management discretion within applicable plans and local laws
+
+4.3 Benefits Overview
+- Competitive benefits package including health insurance, retirement plans, life insurance, wellness programs
+- Eligibility (full-time vs part-time) described in local benefits guides
+- Employees responsible for reviewing plan documents and enrolling during open enrollment
+
+5. PERFORMANCE AND PROMOTIONS
+5.1 Performance Reviews
+- Conducted annually with mid-year check-ins where applicable
+- Reviews consider goals, competencies, behaviors, and alignment with company values
+
+5.2 Performance Review Procedure
+1. Manager and employee agree on goals at review period start
+2. Regular check-ins track progress and adjust goals
+3. Both complete self/manager reviews in system at review time
+4. HR consolidates outcomes for calibration, rewards, and development planning
+
+5.3 Promotions
+- Based on sustained high performance, increased responsibilities, role alignment
+- Promotion decisions reviewed by HR and leadership for consistency and fairness
+
+5.4 Performance Improvement Plan (PIP)
+- Used when performance falls below expectations after feedback
+- Manager and HR create PIP with clear expectations, support actions, timelines
+- Regular meetings during PIP period to review progress
+- Outcomes: successful completion, extension, reassignment, or termination
+
+6. CODE OF CONDUCT AND PROFESSIONAL BEHAVIOR
+6.1 Workplace Behavior
+- Treat colleagues, customers, partners with respect, fairness, courtesy
+- Bullying, harassment, discrimination, or retaliation strictly prohibited
+
+6.2 Anti-Harassment and Anti-Discrimination
+- Workplace free from unlawful harassment and discrimination
+- Complaints taken seriously, investigated promptly, addressed appropriately
+
+6.3 Conflict of Interest
+- Avoid situations where personal interests conflict with company interests
+- Disclose potential conflicts (external employment, family relationships with suppliers)
+
+6.4 Reporting Channels
+- Report misconduct to manager, HR, or ethics/whistleblower channel
+- Provide detail while respecting privacy
+- HR investigates and communicates outcomes within confidentiality limits
+
+7. SECURITY AND DATA PRIVACY
+7.1 Data Classification and Acceptable Use
+- Information classified: Public, Internal, Confidential, Restricted
+- Use company systems for legitimate business; comply with acceptable use standards
+- No unauthorized sharing, piracy, or illegal content
+
+7.2 Device and Account Security
+- All company devices must use approved security controls (passwords, encryption, antivirus)
+- Never share passwords or store secrets in plain text
+- Never include sample credentials or secrets in documents or code
+
+7.3 Reporting Security Incidents
+1. Immediately report suspected incidents (lost device, phishing, unauthorized access, data leak)
+2. Do not investigate deeply if evidence may be destroyed
+3. Follow instructions from Security and IT
+
+8. IT AND REMOTE WORK
+8.1 Approved Tools and Access
+- Only IT-approved tools and cloud services for company data
+- Access provisioned based on role and least-privilege principles
+
+8.2 VPN and Remote Access
+- Remote connections must go through approved VPN or secure access solution
+- Do not bypass security controls using unauthorized tools or personal cloud storage
+
+8.3 BYOD (Bring Your Own Device)
+- BYOD allowed where permitted by local policy with mobile device management
+- Company enforces security settings on BYOD devices accessing company data
+
+8.4 Backup and Data Retention
+- Critical business systems backed up per IT standards
+- Follow data retention rules; store records in approved repositories
+
+9. HEALTH, SAFETY AND EMERGENCY PROCEDURES
+9.1 Workplace Safety Rules
+- Follow local health and safety rules, signage, safety officer instructions
+- Report unsafe conditions, accidents, near misses immediately
+
+9.2 Emergency Contacts and Evacuation
+1. Follow local instructions (fire alarms, announcements) in emergency
+2. Evacuate calmly via nearest safe exit to designated assembly point
+3. Do not re-enter until authorized by emergency services
+4. Use local emergency numbers posted in each office
+
+10. OFFBOARDING AND EXIT
+10.1 Notice Periods
+- Defined in employment contracts or local law; may differ by role, seniority, jurisdiction
+- Either party may initiate termination per contract terms and legal requirements
+
+10.2 Offboarding Procedure
+1. Resigning employee submits written resignation to manager and HR
+2. HR confirms final working date, notice obligations, next steps in writing
+3. Manager and IT coordinate removal of system access
+4. Employee returns all company property (laptop, access cards, documents)
+5. HR may schedule exit interview for feedback
+
+10.3 Final Pay and Benefits Continuation
+- Final pay includes unpaid salary, eligible bonuses, accrued statutory leave per law
+- Benefits continuation (insurance extensions/conversions) depends on local law and plan rules
+
+END OF HANDBOOK
